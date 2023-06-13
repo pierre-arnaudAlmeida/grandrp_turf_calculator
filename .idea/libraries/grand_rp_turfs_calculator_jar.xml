@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grand_rp_turfs_calculator_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/grand_rp_turfs_calculator_jar/grand_rp_turfs_calculator_jar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
